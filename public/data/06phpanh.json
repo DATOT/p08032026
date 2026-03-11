@@ -1,0 +1,28 @@
+{
+  "template": {
+    "name": "Phạm Hồng Phương Anh",
+    "colorTheme": "card-red",
+    "cards": [
+      {
+        "title": "Favorite Color",
+        "titleEffect": "tx-rainbow tx-xl tx-black",
+        "text": "IDK, probably RAINBOW 🌈🌈🌈",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-rainbow"
+      },
+      {
+        "title": "Penguins",
+        "titleEffect": "tx-large tx-black tx-glow tx-shake",
+        "text": "🐧🐧🐧",
+        "theme": "card-ocean"
+      }
+    ],
+    "final": {
+      "taps": 4,
+      "hint": "Tap it",
+      "title": "08 / 03 / 2026",
+      "message": "International Women's Day:3💖✨",
+      "blockImage": "/assets/pham_hong_phuong_anh/penguin_breakable.png"
+    }
+  }
+}

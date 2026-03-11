@@ -1,0 +1,46 @@
+{
+  "template": {
+    "name": "Dương Thị Minh Nguyên",
+    "colorTheme": "card-red",
+    "cards": [
+      {
+        "title": "Favorite Color",
+        "titleEffect": "tx-rainbow tx-xl tx-black",
+        "text": "BLUE",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-blue",
+        "bottomImage": "/assets/bluethings.png"
+      },
+      {
+        "title": "DNA",
+        "titleEffect": "tx-large tx-black tx-glow tx-shake",
+        "text": "🧬🧬🧬",
+        "theme": "card-ocean",
+        "effectClass": "fx-dna"
+      },
+      {
+        "title": "Roblox",
+        "titleEffect": "tx-large tx-black tx-glow tx-shake",
+        "text": "OOF",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-dark",
+        "bottomImage": "/assets/duong_thi_minh_nguyen/OOF.webp"
+      },
+      {
+        "title": "Sheeps",
+        "titleEffect": "tx-large tx-black tx-glow tx-shake",
+        "text": "🐑🐏Baaaaaa Baaa! Baaa? BAAAAAAAAAAAAAAAAAA!🐑🐏",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-dark",
+        "backgroundImage": "/assets/duong_thi_minh_nguyen/sheeps.jpg"
+      }
+    ],
+    "final": {
+      "taps": 4,
+      "hint": "Tap it",
+      "title": "08 / 03 / 2026",
+      "message": "International Women's Day:3💖✨",
+      "blockImage": "/assets/duong_thi_minh_nguyen/roblox_breakable.png"
+    }
+  }
+}

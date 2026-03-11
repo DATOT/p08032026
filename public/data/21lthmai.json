@@ -1,0 +1,23 @@
+{
+  "template": {
+    "name": "Lâm Thị Huỳnh Mai",
+    "colorTheme": "card-red",
+    "cards": [
+      {
+        "title": "Favorite Color",
+        "titleEffect": "tx-rainbow tx-xl tx-black",
+        "text": "BLUE",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-blue",
+        "bottomImage": "/assets/bluethings.png"
+      }
+    ],
+    "final": {
+      "taps": 4,
+      "hint": "Tap it",
+      "title": "08 / 03 / 2026",
+      "message": "International Women's Day:3💖✨",
+      "blockImage": "/assets/lam_thi_huynh_mai/flower_bouquet.jpg"
+    }
+  }
+}

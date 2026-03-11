@@ -1,0 +1,39 @@
+{
+  "template": {
+    "name": "Lê Thị Mai Anh",
+    "colorTheme": "card-red",
+    "cards": [
+      {
+        "title": "Favorite Color",
+        "titleEffect": "tx-rainbow tx-xl tx-black",
+        "text": "RED",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-navy",
+        "bottomImage": "/assets/redthings.png"
+      },
+      {
+        "title": "GUITAR",
+        "titleEffect": "tx-large tx-black tx-glow tx-shake",
+        "text": "cool I guess...",
+        "theme": "card-dark",
+        "backgroundImage": "/assets/le_thi_mai_anh/red_guitar.png"
+      },
+      {
+        "title": "Sleeping",
+        "titleEffect": "tx-xl",
+        "text": "zzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZ",
+        "textEffect": "tx-mid tx-italic tx-shake",
+        "theme": "card-light",
+        "bottomImage": "/assets/sleeping-sleep.webp",
+        "backgroundImage": "/assets/nightwall.jpg"
+      }
+    ],
+    "final": {
+      "taps": 4,
+      "hint": "Tap it",
+      "title": "08 / 03 / 2026",
+      "message": "International Women's Day:3💖✨",
+      "blockImage": "/assets/le_thi_mai_anh/breakable.png"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "template": {
+    "name": "Trần Ái Nhi",
+    "colorTheme": "card-red",
+    "cards": [
+      {
+        "title": "Favorite Color",
+        "titleEffect": "tx-rainbow tx-xl tx-black",
+        "text": "IDK, probably RAINBOW 🌈🌈🌈",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-rainbow"
+      },
+      {
+        "title": "🧠🫀🫁",
+        "theme": "card-red"
+      }
+    ],
+    "final": {
+      "taps": 4,
+      "hint": "Tap it",
+      "title": "08 / 03 / 2026",
+      "message": "International Women's Day:3💖✨",
+      "blockImage": "/assets/tran_ai_nhi/heart.png"
+    }
+  }
+}

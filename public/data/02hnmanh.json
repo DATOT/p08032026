@@ -1,0 +1,49 @@
+{
+  "template": {
+    "name": "Huỳnh Ngọc Minh Anh",
+    "colorTheme": "card-sky",
+    "cards": [
+      {
+        "title": "Favorite Color",
+        "titleEffect": "tx-rainbow tx-xl tx-black",
+        "text": "PASTEL PURPLE",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-pastel-purple",
+        "bottomImage": "/assets/purpleheart.webp"
+      },
+      {
+        "title": "Sleeping",
+        "titleEffect": "tx-xl",
+        "text": "zzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZ",
+        "textEffect": "tx-mid tx-italic tx-shake",
+        "theme": "card-light",
+        "bottomImage": "/assets/sleeping-sleep.webp",
+        "backgroundImage": "/assets/nightwall.jpg"
+      },
+      {
+        "title": "Strawberry",
+        "titleEffect": "tx-xl",
+        "text": "",
+        "textEffect": "tx-mid tx-italic tx-shake",
+        "theme": "card-dark",
+        "backgroundImage": "/assets/strawberry.webp"
+      },
+      {
+        "title": "Matcha Latte",
+        "titleEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "text": "Me no suggest drink too much, me think it can get u fat:)",
+        "textEffect": "tx-xs tx-glow",
+        "theme": "card-dark",
+        "bottomImage": "",
+        "backgroundImage": "/assets/dang_nguyen_khanh_bang/latte_background.png"
+      }
+    ],
+    "final": {
+      "taps": 4,
+      "hint": "Tap it",
+      "title": "08 / 03 / 2026",
+      "message": "International Women's Day:3💖✨",
+      "blockImage": "/assets/huynh_ngoc_minh_anh/kawaii_strawberry.jpg"
+    }
+  }
+}

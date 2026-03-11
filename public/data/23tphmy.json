@@ -1,0 +1,32 @@
+{
+  "template": {
+    "name": "Trần Phan Hà My",
+    "colorTheme": "card-green",
+    "cards": [
+      {
+        "title": "Favorite Color",
+        "titleEffect": "tx-rainbow tx-xl tx-black",
+        "text": "GREEN",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-green",
+        "bottomImage": "/assets/tran_phan_ha_my/hmmmgreens.jfif"
+      },
+      {
+        "title": "Sleeping",
+        "titleEffect": "tx-xl",
+        "text": "zzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZ",
+        "textEffect": "tx-mid tx-italic tx-shake",
+        "theme": "card-light",
+        "bottomImage": "/assets/sleeping-sleep.webp",
+        "backgroundImage": "/assets/nightwall.jpg"
+      }
+    ],
+    "final": {
+      "taps": 4,
+      "hint": "Tap it",
+      "title": "08 / 03 / 2026",
+      "message": "International Women's Day:3💖✨",
+      "blockImage": "/assets/tran_phan_ha_my/23breakable.png"
+    }
+  }
+}

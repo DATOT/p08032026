@@ -1,0 +1,30 @@
+{
+  "template": {
+    "name": "Phạm Gia Mỹ",
+    "colorTheme": "card-sky",
+    "cards": [
+      {
+        "title": "Favorite Color",
+        "titleEffect": "tx-rainbow tx-xl tx-black",
+        "text": "PASTEL PINK",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-pastel-pink",
+        "bottomImage": "/assets/pinkthings.png"
+      },
+      {
+        "title": "DANCIN'",
+        "titleEffect": "tx-xl",
+        "text": "🎤🎶💃🕺✨🎶🎤💃🕺🌟🎶💃🎤🕺✨🎵",
+        "textEffect": "tx-mid tx-italic tx-shake",
+        "theme": "card-pink"
+      }
+    ],
+    "final": {
+      "taps": 4,
+      "hint": "Tap it",
+      "title": "08 / 03 / 2026",
+      "message": "International Women's Day:3💖✨",
+      "blockImage": "/assets/pham_gia_my/pinkflower.avif"
+    }
+  }
+}

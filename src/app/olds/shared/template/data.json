@@ -1,0 +1,37 @@
+{
+  "name": "Bùi Phạm Khánh An",
+  "colorTheme": "card-red",
+
+  "cards": [
+    {
+      "title": "Mathematical Vectors",
+      "text": "Direction. Magnitude. Precision.",
+      "theme": "card-red",
+      "effectClass": "fx-vectors"
+    },
+    {
+      "title": "Minecraft",
+      "text": "Building worlds, one block at a time.",
+      "theme": "card-dark",
+      "bottomImage": "/website/minecraft.png",
+      "footage": {
+        "video": "/website/footage/minecraft/minecraft.mp4",
+        "position": "top"
+      },
+      "length": 300
+    },
+    {
+      "title": "Physics",
+      "text": "Understanding how the universe moves.",
+      "theme": "card-light"
+    }
+  ],
+
+  "final": {
+    "taps": 4,
+    "hint": "Tap it",
+    "title": "08 / 03 / 2026",
+    "message": "You’re stronger than you think 💖",
+    "blockImage": "/website/dirt.png"
+  }
+}

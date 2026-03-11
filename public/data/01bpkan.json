@@ -1,0 +1,47 @@
+{
+  "template": {
+    "name": "Bùi Phạm Khánh An",
+    "colorTheme": "card-red",
+    "cards": [
+      {
+        "title": "Favorite Color",
+        "titleEffect": "tx-rainbow tx-xl tx-black",
+        "text": "RED",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-red",
+        "bottomImage": "/assets/redthings.png"
+      },
+      {
+        "title": "Vectors",
+        "titleEffect": "tx-large tx-black",
+        "text": "This way. NAH this way. Nooooooo... Why are we spinning?",
+        "textEffect": "tx-mid tx-italic tx-shadow-hard",
+        "theme": "card-green",
+        "effectClass": "fx-vectors"
+      },
+      {
+        "title": "Minecraft",
+        "titleEffect": "tx-minecraft tx-xl",
+        "text": "La-la-la-lava, ch-ch-ch-chicken",
+        "textEffect": "tx-minecraft tx-fake-italic tx-underline-pixel tx-mc-shadow tx-mc-enchant",
+        "theme": "card-dark",
+        "bottomImage": "/assets/bui_pham_khanh_an/minecraft.png"
+      },
+      {
+        "title": "Physics",
+        "titleEffect": "tx-xl tx-light",
+        "text": "g = 10 m/s² trust me bro.",
+        "textEffect": "tx-mid tx-glow tx-flicker tx-italic",
+        "theme": "card-space",
+        "backgroundImage": "/assets/bui_pham_khanh_an/physics_background.png"
+      }
+    ],
+    "final": {
+      "taps": 4,
+      "hint": "Tap it",
+      "title": "08 / 03 / 2026",
+      "message": "International Women's Day:3💖✨",
+      "blockImage": "/assets/bui_pham_khanh_an/dirt.png"
+    }
+  }
+}

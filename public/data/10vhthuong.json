@@ -1,0 +1,47 @@
+{
+  "template": {
+    "name": "Võ Hồ Thiên Hương",
+    "colorTheme": "card-red",
+    "cards": [
+      {
+        "title": "Favorite Color",
+        "titleEffect": "tx-rainbow tx-xl tx-black",
+        "text": "OCEAN BLUE",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-ocean",
+        "bottomImage": "/assets/bluethings.png"
+      },
+      {
+        "title": "Lilies",
+        "titleEffect": "tx-large tx-black",
+        "text": "",
+        "textEffect": "",
+        "theme": "card-light",
+        "backgroundImage": "/assets/vo_ho_thien_huong/lilies_background.png"
+      },
+      {
+        "title": "Roses",
+        "titleEffect": "tx-minecraft tx-xl",
+        "text": "Has thorns. Touch = Respawn.",
+        "textEffect": "tx-minecraft tx-fake-italic tx-underline-pixel tx-mc-shadow tx-mc-enchant",
+        "theme": "card-dark",
+        "backgroundImage": "/assets/vo_ho_thien_huong/roses_background.jpg"
+      },
+      {
+        "title": "Orchids",
+        "titleEffect": "tx-xl tx-light",
+        "text": "Rare. Fancy. Difficult. Needs care.",
+        "textEffect": "tx-mid tx-glow tx-flicker tx-italic",
+        "theme": "card-light",
+        "backgroundImage": "/assets/vo_ho_thien_huong/orchid_background.png"
+      }
+    ],
+    "final": {
+      "taps": 4,
+      "hint": "Tap it",
+      "title": "08 / 03 / 2026",
+      "message": "International Women's Day:3💖✨",
+      "blockImage": "/assets/vo_ho_thien_huong/flowers_breakable.webp"
+    }
+  }
+}

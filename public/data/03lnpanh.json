@@ -1,0 +1,50 @@
+{
+  "template": {
+    "name": "Lê Ngân Phi Anh",
+
+    "colorTheme": "card-red",
+
+    "cards": [
+      {
+        "title": "Favorite Color",
+        "titleEffect": "tx-rainbow tx-xl tx-black",
+        "text": "RED",
+        "textEffect": "tx-rgb tx-large tx-bold tx-shake",
+        "theme": "card-red",
+        "bottomImage": "/assets/redthings.png"
+      },
+      {
+        "title": "Rabbit",
+        "titleEffect": "tx-large tx-bold tx-bounce tx-underline-dotted",
+        "text": "Carrots=Yum Yum🥕🥕🥕",
+        "textEffect": "tx-mid tx-italic tx-heartbeat",
+        "theme": "card-orange",
+        "bottomImage": "/assets/le_ngan_phi_anh/rabbit.png"
+      },
+      {
+        "title": "Rain",
+        "titleEffect": "tx-xl tx-light tx-glow",
+        "text": "💦💦💧☔💧💧☔☔☔💦",
+        "textEffect": "tx-mid tx-flicker",
+        "effectClass": "fx-rain",
+        "theme": "card-navy"
+      },
+      {
+        "title": "Korea",
+        "titleEffect": "tx-xl tx-black tx-outline tx-shadow-soft",
+        "text": "🇰🇷 물고기 🇰🇷",
+        "textEffect": "tx-large tx-neon tx-minecraft tx-tight",
+        "theme": "card-light",
+        "backgroundImage": "/assets/le_ngan_phi_anh/south_korea.png"
+      }
+    ],
+
+    "final": {
+      "taps": 4,
+      "hint": "Tap it",
+      "title": "08 / 03 / 2026",
+      "message": "International Women's Day:3💖✨",
+      "blockImage": "/assets/le_ngan_phi_anh/south_korea_breakable.png"
+    }
+  }
+}

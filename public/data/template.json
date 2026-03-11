@@ -1,0 +1,71 @@
+{
+  // =========================
+  // TEMPLATE METADATA
+  // =========================
+  "template": {
+    // Display name of the person / theme
+    "name": "<NAME_HERE>",
+
+    // Default theme applied to the whole page
+    // Example: card-red, card-dark, card-space
+    "colorTheme": "<DEFAULT_THEME>",
+
+    // =========================
+    // CARDS SECTION
+    // =========================
+    "cards": [
+      {
+        // Card title text
+        "title": "<CARD_TITLE>",
+
+        // CSS classes applied to title text
+        // Example: tx-xl tx-rainbow tx-minecraft
+        "titleEffect": "<TITLE_EFFECT_CLASSES>",
+
+        // Main card content text
+        "text": "<CARD_TEXT>",
+
+        // CSS classes applied to content text
+        "textEffect": "<TEXT_EFFECT_CLASSES>",
+
+        // Theme for this card only
+        "theme": "<CARD_THEME>",
+
+        // OPTIONAL: special visual / animation effect
+        // Example: fx-vectors, fx-glitch, fx-float
+        // Remove if unused
+        "effectClass": "<OPTIONAL_EFFECT_CLASS>",
+
+        // OPTIONAL: image displayed at the bottom of the card
+        // Remove if unused
+        "bottomImage": "<OPTIONAL_BOTTOM_IMAGE_PATH>",
+
+        // OPTIONAL: background image for the entire card
+        // Remove if unused
+        "backgroundImage": "<OPTIONAL_BACKGROUND_IMAGE_PATH>"
+      }
+
+      // You can duplicate this object to add more cards
+    ],
+
+    // =========================
+    // FINAL / ENDING SCREEN
+    // =========================
+    "final": {
+      // Number of taps required to unlock the final message
+      "taps": 4,
+
+      // Hint text shown before unlock
+      "hint": "<HINT_TEXT>",
+
+      // Title displayed on final screen (date, event, etc.)
+      "title": "<FINAL_TITLE>",
+
+      // Main final message (can include emojis)
+      "message": "<FINAL_MESSAGE>",
+
+      // Image shown on the final block
+      "blockImage": "<FINAL_IMAGE_PATH>"
+    }
+  }
+}
