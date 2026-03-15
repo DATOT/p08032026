@@ -6,7 +6,7 @@
       {
         "title": "Favorite Color",
         "titleEffect": "tx-rainbow tx-xl tx-black",
-        "text": "BLUE",
+        "text": "XANH",
         "textEffect": "tx-rgb tx-large tx-bold tx-shake",
         "theme": "card-blue",
         "bottomImage": "/assets/bluethings.png"
@@ -39,7 +39,7 @@
       "taps": 4,
       "hint": "Tap it",
       "title": "08 / 03 / 2026",
-      "message": "International Women's Day:3💖✨",
+      "message": "Happy Quốc Tế Phụ Nữ Day:3💖✨",
       "blockImage": "/assets/duong_thi_minh_nguyen/roblox_breakable.png"
     }
   }

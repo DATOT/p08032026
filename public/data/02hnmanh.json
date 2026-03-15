@@ -6,13 +6,13 @@
       {
         "title": "Favorite Color",
         "titleEffect": "tx-rainbow tx-xl tx-black",
-        "text": "PASTEL PURPLE",
+        "text": "TÍM PASTEL",
         "textEffect": "tx-rgb tx-large tx-bold tx-shake",
         "theme": "card-pastel-purple",
         "bottomImage": "/assets/purpleheart.webp"
       },
       {
-        "title": "Sleeping",
+        "title": "Ngủ",
         "titleEffect": "tx-xl",
         "text": "zzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZ",
         "textEffect": "tx-mid tx-italic tx-shake",
@@ -21,9 +21,9 @@
         "backgroundImage": "/assets/nightwall.jpg"
       },
       {
-        "title": "Strawberry",
+        "title": "Dâu",
         "titleEffect": "tx-xl",
-        "text": "",
+        "text": "straw🥤berry🍒",
         "textEffect": "tx-mid tx-italic tx-shake",
         "theme": "card-dark",
         "backgroundImage": "/assets/strawberry.webp"
@@ -42,7 +42,7 @@
       "taps": 4,
       "hint": "Tap it",
       "title": "08 / 03 / 2026",
-      "message": "International Women's Day:3💖✨",
+      "message": "Happy Quốc Tế Phụ Nữ Day:3💖✨",
       "blockImage": "/assets/huynh_ngoc_minh_anh/kawaii_strawberry.jpg"
     }
   }

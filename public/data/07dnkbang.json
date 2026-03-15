@@ -6,13 +6,13 @@
       {
         "title": "Favorite Color",
         "titleEffect": "tx-rainbow tx-xl tx-black",
-        "text": "SKYBLUE",
+        "text": "XANH DA TRỜI",
         "textEffect": "tx-rgb tx-large tx-bold tx-shake",
         "theme": "card-sky",
         "bottomImage": "/assets/bluethings.png"
       },
       {
-        "title": "White Tulips",
+        "title": "Tulips Trắng",
         "titleEffect": "tx-large",
         "text": "Whiter than my future.",
         "textEffect": "tx-small tx-italic tx-fade-in",
@@ -28,13 +28,25 @@
         "theme": "card-dark",
         "bottomImage": "",
         "backgroundImage": "/assets/dang_nguyen_khanh_bang/latte_background.png"
+      },
+      {
+        "title": "Ngủ",
+        "titleEffect": "tx-xl",
+        "text": "zzzZZzzzzZZZzzzzZZzzzZZZzzzzZZZzZZzzzZZ",
+        "textEffect": "tx-mid tx-italic tx-shake",
+        "theme": "card-light",
+        "bottomImage": "/assets/sleeping-sleep.webp",
+        "backgroundImage": "/assets/nightwall.jpg",
+        "firstClick": {
+          "sound": "/assets/snore.mp3"
+        }
       }
     ],
     "final": {
       "taps": 4,
       "hint": "Tap it",
       "title": "08 / 03 / 2026",
-      "message": "International Women's Day:3💖✨",
+      "message": "Happy Quốc Tế Phụ Nữ Day:3💖✨",
       "blockImage": "/assets/dang_nguyen_khanh_bang/latte_breakable.jpg"
     }
   }

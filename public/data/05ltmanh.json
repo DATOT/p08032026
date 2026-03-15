@@ -6,34 +6,37 @@
       {
         "title": "Favorite Color",
         "titleEffect": "tx-rainbow tx-xl tx-black",
-        "text": "RED",
+        "text": "XANH NAVY",
         "textEffect": "tx-rgb tx-large tx-bold tx-shake",
         "theme": "card-navy",
-        "bottomImage": "/assets/redthings.png"
+        "bottomImage": "/assets/bluethings.png"
       },
       {
         "title": "GUITAR",
-        "titleEffect": "tx-large tx-black tx-glow tx-shake",
+        "titleEffect": "tx-large tx-black tx-glow tx-shake tx-rainbow",
         "text": "cool I guess...",
         "theme": "card-dark",
         "backgroundImage": "/assets/le_thi_mai_anh/red_guitar.png"
       },
       {
-        "title": "Sleeping",
+        "title": "Ngủ",
         "titleEffect": "tx-xl",
-        "text": "zzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZ",
+        "text": "zzzZZzzzzZZZzzzzZZzzzZZZzzzzZZZzZZzzzZZ",
         "textEffect": "tx-mid tx-italic tx-shake",
         "theme": "card-light",
         "bottomImage": "/assets/sleeping-sleep.webp",
-        "backgroundImage": "/assets/nightwall.jpg"
+        "backgroundImage": "/assets/nightwall.jpg",
+        "firstClick": {
+          "sound": "/assets/snore.mp3"
+        }
       }
     ],
     "final": {
       "taps": 4,
       "hint": "Tap it",
       "title": "08 / 03 / 2026",
-      "message": "International Women's Day:3💖✨",
-      "blockImage": "/assets/le_thi_mai_anh/breakable.png"
+      "message": "Happy Quốc Tế Phụ Nữ Day:3💖✨",
+      "blockImage": "/assets/le_thi_mai_anh/pants.png"
     }
   }
 }

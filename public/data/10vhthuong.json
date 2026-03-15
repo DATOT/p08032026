@@ -20,15 +20,15 @@
         "backgroundImage": "/assets/vo_ho_thien_huong/lilies_background.png"
       },
       {
-        "title": "Roses",
+        "title": "Hoa Hồng",
         "titleEffect": "tx-minecraft tx-xl",
-        "text": "Has thorns. Touch = Respawn.",
+        "text": "Có gai. Chạm = Respawn.",
         "textEffect": "tx-minecraft tx-fake-italic tx-underline-pixel tx-mc-shadow tx-mc-enchant",
         "theme": "card-dark",
         "backgroundImage": "/assets/vo_ho_thien_huong/roses_background.jpg"
       },
       {
-        "title": "Orchids",
+        "title": "Lan",
         "titleEffect": "tx-xl tx-light",
         "text": "Rare. Fancy. Difficult. Needs care.",
         "textEffect": "tx-mid tx-glow tx-flicker tx-italic",
@@ -40,7 +40,7 @@
       "taps": 4,
       "hint": "Tap it",
       "title": "08 / 03 / 2026",
-      "message": "International Women's Day:3💖✨",
+      "message": "Happy Quốc Tế Phụ Nữ Day:3💖✨",
       "blockImage": "/assets/vo_ho_thien_huong/flowers_breakable.webp"
     }
   }

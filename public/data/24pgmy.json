@@ -16,14 +16,27 @@
         "titleEffect": "tx-xl",
         "text": "🎤🎶💃🕺✨🎶🎤💃🕺🌟🎶💃🎤🕺✨🎵",
         "textEffect": "tx-mid tx-italic tx-shake",
-        "theme": "card-pink"
+        "theme": "card-pink",
+        "effectClass": "fx-neuron-network"
+      },
+      {
+        "title": "Ngủ",
+        "titleEffect": "tx-xl",
+        "text": "zzzZZzzzzZZZzzzzZZzzzZZZzzzzZZZzZZzzzZZ",
+        "textEffect": "tx-mid tx-italic tx-shake",
+        "theme": "card-light",
+        "bottomImage": "/assets/sleeping-sleep.webp",
+        "backgroundImage": "/assets/nightwall.jpg",
+        "firstClick": {
+          "sound": "/assets/snore.mp3"
+        }
       }
     ],
     "final": {
       "taps": 4,
       "hint": "Tap it",
       "title": "08 / 03 / 2026",
-      "message": "International Women's Day:3💖✨",
+      "message": "Happy Quốc Tế Phụ Nữ Day:3💖✨",
       "blockImage": "/assets/pham_gia_my/pinkflower.avif"
     }
   }

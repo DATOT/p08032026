@@ -14,14 +14,34 @@
         "title": "Penguins",
         "titleEffect": "tx-large tx-black tx-glow tx-shake",
         "text": "🐧🐧🐧",
-        "theme": "card-ocean"
+        "theme": "card-ocean",
+        "bottomImage": "/assets/pham_hong_phuong_anh/penguins.png"
+      },
+      {
+        "title": "English",
+        "titleEffect": "tx-large tx-black tx-glow tx-shake",
+        "text": "This is the IELTS listening test. You will hear a number of different recordings and you will have to answer questions on what you hear. There will be time for you to read the instructions and questions and you will have a chance to check your work.\nAll the recordings will be played once only. The test is in four parts. At the end of the test, you will be given 10 minutes to transfer your answers to the answer sheet.\nNow turn to part 1...",
+        "textEffect": "tx-mid tx-italic tx-left",
+        "theme": "card-dark"
+      },
+      {
+        "title": "Slepin",
+        "titleEffect": "tx-xl",
+        "text": "zzzZZzzzzZZZzzzzZZzzzZZZzzzzZZZzZZzzzZZ",
+        "textEffect": "tx-mid tx-italic tx-shake",
+        "theme": "card-light",
+        "bottomImage": "/assets/sleeping-sleep.webp",
+        "backgroundImage": "/assets/nightwall.jpg",
+        "firstClick": {
+          "sound": "/assets/snore.mp3"
+        }
       }
     ],
     "final": {
       "taps": 4,
       "hint": "Tap it",
       "title": "08 / 03 / 2026",
-      "message": "International Women's Day:3💖✨",
+      "message": "Happy Quốc Tế Phụ Nữ Day:3💖✨",
       "blockImage": "/assets/pham_hong_phuong_anh/penguin_breakable.png"
     }
   }

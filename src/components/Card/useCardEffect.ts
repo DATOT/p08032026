@@ -1,11 +1,13 @@
 import { useEffect } from "react";
 import { attachVectorEffect } from "@/effects/vectors";
 import { attachRainEffect } from "@/effects/rain";
+import { attachNeuronNetworkEffect } from "@/effects/neuronnetwork";
 import {
   attachFlowerParticlesEffect,
   attachWhiteTulipEffect,
 } from "@/effects/flowers";
 import { attachDNAEffect } from "@/effects/dna";
+import { attachVeinGrowthEffect } from "@/effects/vein";
 
 export function useCardEffect(
   ref: React.RefObject<HTMLElement | null>,
@@ -30,6 +32,12 @@ export function useCardEffect(
     }
     if (effect === "fx-dna") {
       cleanup = attachDNAEffect(ref.current!);
+    }
+    if (effect === "fx-neuron-network") {
+      cleanup = attachNeuronNetworkEffect(ref.current!);
+    }
+    if (effect === "fx-vein-growth") {
+      cleanup = attachVeinGrowthEffect(ref.current!);
     }
 
     return () => cleanup?.();

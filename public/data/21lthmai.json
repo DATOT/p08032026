@@ -6,17 +6,35 @@
       {
         "title": "Favorite Color",
         "titleEffect": "tx-rainbow tx-xl tx-black",
-        "text": "BLUE",
+        "text": "Xanh dương",
         "textEffect": "tx-rgb tx-large tx-bold tx-shake",
         "theme": "card-blue",
         "bottomImage": "/assets/bluethings.png"
+      },
+      {
+        "title": "Hoa hướng dương",
+        "titleEffect": "tx-glow",
+        "theme": "card-yellow",
+        "bottomImage": "/assets/lam_thi_huynh_mai/sunflowers.png"
+      },
+      {
+        "title": "Ngủ",
+        "titleEffect": "tx-xl",
+        "text": "zzzZZzzzzZZZzzzzZZzzzZZZzzzzZZZzZZzzzZZ",
+        "textEffect": "tx-mid tx-italic tx-shake",
+        "theme": "card-light",
+        "bottomImage": "/assets/sleeping-sleep.webp",
+        "backgroundImage": "/assets/nightwall.jpg",
+        "firstClick": {
+          "sound": "/assets/snore.mp3"
+        }
       }
     ],
     "final": {
       "taps": 4,
       "hint": "Tap it",
       "title": "08 / 03 / 2026",
-      "message": "International Women's Day:3💖✨",
+      "message": "Happy Quốc Tế Phụ Nữ Day:3💖✨",
       "blockImage": "/assets/lam_thi_huynh_mai/flower_bouquet.jpg"
     }
   }

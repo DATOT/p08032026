@@ -8,7 +8,7 @@
       {
         "title": "Favorite Color",
         "titleEffect": "tx-rainbow tx-xl tx-black",
-        "text": "RED",
+        "text": "ĐỎ",
         "textEffect": "tx-rgb tx-large tx-bold tx-shake",
         "theme": "card-red",
         "bottomImage": "/assets/redthings.png"
@@ -22,7 +22,7 @@
         "bottomImage": "/assets/le_ngan_phi_anh/rabbit.png"
       },
       {
-        "title": "Rain",
+        "title": "Mưa",
         "titleEffect": "tx-xl tx-light tx-glow",
         "text": "💦💦💧☔💧💧☔☔☔💦",
         "textEffect": "tx-mid tx-flicker",
@@ -30,7 +30,19 @@
         "theme": "card-navy"
       },
       {
-        "title": "Korea",
+        "title": "Ngủ",
+        "titleEffect": "tx-xl",
+        "text": "zzzZZzzzzZZZzzzzZZzzzZZZzzzzZZZzZZzzzZZ",
+        "textEffect": "tx-mid tx-italic tx-shake",
+        "theme": "card-light",
+        "bottomImage": "/assets/sleeping-sleep.webp",
+        "backgroundImage": "/assets/nightwall.jpg",
+        "firstClick": {
+          "sound": "/assets/snore.mp3"
+        }
+      },
+      {
+        "title": "Hàn Quốc",
         "titleEffect": "tx-xl tx-black tx-outline tx-shadow-soft",
         "text": "🇰🇷 물고기 🇰🇷",
         "textEffect": "tx-large tx-neon tx-minecraft tx-tight",

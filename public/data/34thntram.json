@@ -6,20 +6,20 @@
       {
         "title": "Favorite Color",
         "titleEffect": "tx-rainbow tx-xl tx-black",
-        "text": "BLACK",
+        "text": "ĐEN",
         "textEffect": "tx-rgb tx-large tx-bold tx-shake",
         "theme": "card-black",
         "bottomImage": "/assets/blackthing.jfif"
       },
       {
-        "title": "Reading",
+        "title": "Đọc truyện",
         "titleEffect": "tx-large tx-bold tx-underline-dotted",
         "text": "📖📖📖",
         "textEffect": "tx-mid tx-italic tx-glow",
         "theme": "card-coffee"
       },
       {
-        "title": "Movies",
+        "title": "Xem phim",
         "titleEffect": "tx-xl",
         "text": "🍿🎬 Lights off.",
         "textEffect": "tx-mid tx-neon tx-italic",
@@ -30,7 +30,7 @@
       "taps": 4,
       "hint": "Tap it",
       "title": "08 / 03 / 2026",
-      "message": "International Women's Day:3💖✨",
+      "message": "Happy Quốc Tế Phụ Nữ Day:3💖✨",
       "blockImage": "/assets/tran_ho_ngoc_tram/movie_breakable.webp"
     }
   }

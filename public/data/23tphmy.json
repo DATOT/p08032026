@@ -6,26 +6,36 @@
       {
         "title": "Favorite Color",
         "titleEffect": "tx-rainbow tx-xl tx-black",
-        "text": "GREEN",
+        "text": "XANH",
         "textEffect": "tx-rgb tx-large tx-bold tx-shake",
         "theme": "card-green",
         "bottomImage": "/assets/tran_phan_ha_my/hmmmgreens.jfif"
       },
       {
-        "title": "Sleeping",
+        "title": "Ngủ",
         "titleEffect": "tx-xl",
-        "text": "zzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZzzzzZZZ",
+        "text": "zzzZZzzzzZZZzzzzZZzzzZZZzzzzZZZzZZzzzZZ",
         "textEffect": "tx-mid tx-italic tx-shake",
         "theme": "card-light",
         "bottomImage": "/assets/sleeping-sleep.webp",
-        "backgroundImage": "/assets/nightwall.jpg"
+        "backgroundImage": "/assets/nightwall.jpg",
+        "firstClick": {
+          "sound": "/assets/snore.mp3"
+        }
+      },
+      {
+        "title": "Another sở thích",
+        "titleEffect": "tx-xl",
+        "text": "Ngủ, nhưng chuyên nghiệp hơn:)",
+        "textEffect": "tx-large tx-bold tx-center",
+        "theme": "card-green"
       }
     ],
     "final": {
       "taps": 4,
       "hint": "Tap it",
       "title": "08 / 03 / 2026",
-      "message": "International Women's Day:3💖✨",
+      "message": "Happy Quốc Tế Phụ Nữ Day:3💖✨",
       "blockImage": "/assets/tran_phan_ha_my/23breakable.png"
     }
   }

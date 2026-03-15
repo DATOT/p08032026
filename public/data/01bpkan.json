@@ -6,15 +6,15 @@
       {
         "title": "Favorite Color",
         "titleEffect": "tx-rainbow tx-xl tx-black",
-        "text": "RED",
+        "text": "ĐỎ",
         "textEffect": "tx-rgb tx-large tx-bold tx-shake",
         "theme": "card-red",
         "bottomImage": "/assets/redthings.png"
       },
       {
-        "title": "Vectors",
+        "title": "Vectơ",
         "titleEffect": "tx-large tx-black",
-        "text": "This way. NAH this way. Nooooooo... Why are we spinning?",
+        "text": "Tình yêu giống vectơ. Không chỉ cần độ lớn mà còn cần đúng hướng.👍",
         "textEffect": "tx-mid tx-italic tx-shadow-hard",
         "theme": "card-green",
         "effectClass": "fx-vectors"
@@ -28,7 +28,7 @@
         "bottomImage": "/assets/bui_pham_khanh_an/minecraft.png"
       },
       {
-        "title": "Physics",
+        "title": "Vật lí",
         "titleEffect": "tx-xl tx-light",
         "text": "g = 10 m/s² trust me bro.",
         "textEffect": "tx-mid tx-glow tx-flicker tx-italic",
@@ -40,7 +40,7 @@
       "taps": 4,
       "hint": "Tap it",
       "title": "08 / 03 / 2026",
-      "message": "International Women's Day:3💖✨",
+      "message": "Happy Quốc Tế Phụ Nữ Day:3💖✨",
       "blockImage": "/assets/bui_pham_khanh_an/dirt.png"
     }
   }
